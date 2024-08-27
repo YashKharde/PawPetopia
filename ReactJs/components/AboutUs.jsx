@@ -36,7 +36,7 @@ function AboutUs() {
           Our mission is to provide top-quality solutions that meet the needs of our users. We believe in innovation, excellence, and commitment to our clients.
         </p>
         <p className="text-lg mb-4">
-          Thank you for visiting our site. We hope you find everything you're looking for. If you have any questions or need further assistance, please don't hesitate to contact us.
+          Thank you for visiting our PawPetopia site. We hope you find everything you're looking for. If you have any questions or need further assistance, please don't hesitate to contact us.
         </p>
        
 
