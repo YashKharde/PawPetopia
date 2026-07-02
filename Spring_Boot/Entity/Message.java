@@ -31,6 +31,7 @@ public class Message {
     private UserLogin receiver;
 
     private String content;
+    private String addtionalContent;
 
     @Temporal(TemporalType.TIMESTAMP)
     private Date timestamp;
@@ -53,6 +54,9 @@ public class Message {
 
     public void setMessageId(Long messageId) {
         this.messageId = messageId;
+    }
+    public void setaddtionalContent(String addtionalContent) {
+        this.addtionalContent = addtionalContent;
     }
 
     public UserLogin getSender() {
