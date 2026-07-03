@@ -1,120 +1,195 @@
-<h3 align="left">Hi There, 👋</h3>
-
-<!-- ###
-
-<br clear="both"> -->
-
-<h1 align="left">It's Yash Vilas Kharde</h1>
-
-###
-
-<img align="right" height="200" src="https://media1.tenor.com/m/s9-dLmjOyv8AAAAC/anime-asta.gif"  />
-
-###
-
-<p align="center">| Web Developer |  Spring Boot Developer | BackEnd API Developer |</p>
-
-###
-
-<h6 align="center">Get in Touch - khardeyash55@gmail.com</h6>
-
-###
-
-<h4 align="left">🌟 Passionate Java Full Stack Developer & Tech Enthusiast </h4>
-
-###
-
-<p align="left">self-taught web developer who loves creating cool stuff on the internet! I'm really into the latest web frameworks and making awesome user interfaces that people love to use. I'm always eager to learn new things and stay up-to-date with what's happening in the tech world. Let's build something amazing together!</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">⚔ Web Development Arsenals</h2>
-
-###
-
-  <img align="right" height="200" src="https://media1.tenor.com/m/QioE-moSVdAAAAAC/spiderman.gif"  />
-
-###
-
-<h3 align="left">IDE's</h3>
-
-<h3 align="left">web Development</h3>
-
-###
-
-<p align="left">FRONTEND:  ReactJS, NextJS, AngularJS.<br>NATIVE:  Ionic | Capacitor, Electron.<br>CSS:  Tailwind, daisyUi, Material UI.<br>CORE:  HTML, CSS, JS.<br>BACKEND: Spring Boot </p>
-
-###
-
-<br clear="both">
-
-<p align="left"># Game Development<br>Unity Engine, C#<br><br># Editors<br>VS code, Notepad++, Sublime, Google Doc 😜<br><br># Databases<br>MySQL, DB2, Oracle, MongoDB, Firebase</p>
-
-###
-
-<br clear="both">
-
-<h2 align="left">🔞 Highlights</h2>
-
-###
-
-<img align="right" height="200" src="https://camo.githubusercontent.com/7a7e2f6b8e97f6e1c625f27017929c9fd032280a98f8fe594fc0736091e126c2/68747470733a2f2f7777772e696e76656e74617465712e636f6d2f6173736574732f707974686f6e2f736d616c6c2e676966"  />
-
-###
-
-<p align="left">Build numerous frontend projects which includes concept of  `image scrapping`, `AI`, `Programable chatbot`.<br>Currently working on SEO Analytic software. learning AWS for web development and hosting.</p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/YogeshKadu/YogeshKadu/main/assets/snake.svg" alt="Snake animation" />
-
-###
-
-<h3 align="center">🌟 SEE YOU SOON 🌟</h3>
-
-###
+# 🐾 PawPetopia
 
 <div align="center">
-  <img height="200" src="https://media1.tenor.com/m/fsJSQx1YBOgAAAAC/hello-benizakura.gif"  />
+
+![React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-5.3.4-646CFF?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.7-06B6D4?style=for-the-badge&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**A modern, interactive pet care and adoption platform built with React & Vite**
+
+[Live Demo](#) • [Features](#features) • [Installation](#installation) • [Contributing](#contributing)
+
 </div>
 
-###
+---
 
-<br clear="both">
+## 📖 About
 
-###
+**PawPetopia** is a comprehensive pet care and adoption platform designed to connect pet lovers with their perfect companions. Built with modern web technologies, it offers an intuitive user interface for browsing pets, learning about pet care, and managing adoption information.
 
-<span align="left">
-<span align="right">
-<div>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="34" height="24" alt="codepen logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="34" height="24" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-kharde-6b8888318/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
-  </a>
-  </div>
-</span>
-<span align="left">
-<div>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="34" height="24" alt="codepen logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="34" height="24" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-kharde-6b8888318/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="34" height="24" alt="linkedin logo"  />
-  </a>
-  </div>
-</span>
-</span>
+---
 
-###
+## ✨ Features
+
+- 🐕 **Pet Catalog** - Browse a wide selection of available pets
+- 💬 **Interactive UI** - Smooth animations and responsive design
+- 📊 **Statistics & Counters** - Real-time pet adoption statistics
+- 🔄 **Carousel Display** - Featured pets and services showcase
+- 📱 **Fully Responsive** - Works seamlessly across all devices
+- 🎨 **Modern Design** - Built with TailwindCSS for beautiful styling
+- ⚡ **Fast Performance** - Optimized with Vite for quick load times
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- **React 18.3.1** - UI library
+- **Vite 5.3.4** - Build tool & dev server
+- **TailwindCSS 3.4.7** - Utility-first CSS framework
+- **React Router DOM 6.25.1** - Client-side routing
+- **Axios 1.7.2** - HTTP client for API calls
+- **React Slick** - Carousel component
+- **FontAwesome 6.6.0** - Icon library
+
+### Development Tools
+- **ESLint** - Code quality and linting
+- **PostCSS** - CSS post-processing
+- **Autoprefixer** - Cross-browser CSS compatibility
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v16.0 or higher)
+- npm or yarn package manager
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/YashKharde/PawPetopia.git
+   cd PawPetopia
+   ```
+
+2. **Navigate to the React app**
+   ```bash
+   cd ReactJs
+   ```
+
+3. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
+5. **Open in browser**
+   ```
+   http://localhost:5173
+   ```
+
+---
+
+## 📦 Available Scripts
+
+In the `ReactJs` directory, you can run:
+
+- **`npm run dev`** - Start the development server
+- **`npm run build`** - Build the project for production
+- **`npm run preview`** - Preview the production build locally
+- **`npm run lint`** - Run ESLint to check code quality
+
+---
+
+## 📁 Project Structure
+
+```
+PawPetopia/
+├── ReactJs/
+│   ├── src/
+│   │   ├── components/    # React components
+│   │   ├── pages/         # Page components
+│   │   ├── assets/        # Images and media
+│   │   ├── styles/        # CSS and styling
+│   │   ├── App.jsx        # Main App component
+│   │   └── main.jsx       # Entry point
+│   ├── public/            # Static files
+│   ├── package.json       # Dependencies
+│   ├── vite.config.js     # Vite configuration
+│   └── tailwind.config.js # TailwindCSS configuration
+└── README.md
+```
+
+---
+
+## 🎨 Design & UI
+
+The application features:
+- Clean and modern UI with TailwindCSS
+- Smooth transitions and animations
+- Interactive carousel for featured pets
+- Real-time statistics with count-up animations
+- Responsive grid layouts
+- FontAwesome icons throughout
+
+---
+
+## 🔄 API Integration
+
+PawPetopia uses Axios for seamless API communication to fetch:
+- Pet listings and details
+- Adoption information
+- User data and preferences
+
+---
+
+## 📱 Responsive Design
+
+The platform is fully responsive and optimized for:
+- 📱 Mobile devices (320px+)
+- 📱 Tablets (768px+)
+- 💻 Desktops (1024px+)
+- 🖥 Large screens (1920px+)
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! To contribute:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## 📝 License
+
+This project is open source and available under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+**Yash Vilas Kharde**
+
+- 📧 Email: khardeyash55@gmail.com
+- 🔗 LinkedIn: [Yash Kharde](https://www.linkedin.com/in/yash-kharde-6b8888318/)
+- 🐙 GitHub: [YashKharde](https://github.com/YashKharde)
+
+---
+
+## 🙏 Acknowledgments
+
+- React community for amazing tools and libraries
+- TailwindCSS for beautiful styling utilities
+- All contributors and supporters of this project
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Yash Kharde**
+
+⭐ If you found this project helpful, please consider giving it a star!
+
+</div>
